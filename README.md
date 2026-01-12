@@ -38,17 +38,6 @@ This project addresses these challenges by building a **fully automated and reus
 
 ---
 
-## 🧠 Supported Learning Task
-
-- Supervised Machine Learning  
-- Tabular **Classification**
-  - Binary classification
-  - Multiclass classification
-
-> ⚠️ Regression, time-series, and unstructured data are not currently supported.
-
----
-
 ## 🤖 Machine Learning Models Used
 
 - Logistic Regression  
@@ -144,33 +133,6 @@ App opens at: http://localhost:8501
 
 ---
 
-## 💾 Saved Model
-
-```
-models/best_model.pkl
-```
-
-The saved file contains the full preprocessing + model pipeline.
-
----
-
-## 🎓 Academic Relevance
-
-- Final Year B.Tech (AI & DS) Project
-- Demonstrates AutoML, Optuna, and ML engineering concepts
-- Suitable for GitHub, resume, and interviews
-
----
-
-## 🚀 Future Enhancements
-
-- Auto-detect regression vs classification
-- Regression model support
-- CLI configuration
-- Cloud deployment (Streamlit / FastAPI)
-
----
-
 ## 👨‍💻 Developer
 
 **Kaushik Mane**  
@@ -179,7 +141,3 @@ Final Year B.Tech – Artificial Intelligence & Data Science
 - 📧 Email: kaushikmane0708@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/kaushik-mane-806831337  
 - 🐙 GitHub: https://github.com/kaushik-0708
-
----
-
-⭐ If you find this project useful, consider starring the repository!
